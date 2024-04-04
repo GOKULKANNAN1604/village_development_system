@@ -35,7 +35,7 @@ import AgricultureDetailsPage from './components/user/agriculture';
 
 
 
-axios.defaults.baseURL = 'http://localhost:8000';
+axios.defaults.baseURL = 'https://village-development-system.onrender.com';
 
 function App() {
   return (
