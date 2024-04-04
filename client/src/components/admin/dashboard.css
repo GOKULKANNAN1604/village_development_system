@@ -1,0 +1,27 @@
+.admin-dashboard-container {
+    background-image: url('https://assets.zeezest.com/blogs/PROD_india_villages_travel_1651054984192.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .admin-dashboard-content {
+    padding: 20px;
+  
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%; /* Adjust as needed */
+    max-width: 600px; /* Adjust as needed */
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 1rem;
+  
+  }
+  
