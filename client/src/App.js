@@ -35,7 +35,7 @@ import AgricultureDetailsPage from './components/user/agriculture';
 
 
 
-axios.defaults.baseURL = 'https://localhost:8000';
+axios.defaults.baseURL = 'https://posts-api-tf8b.onrender.com/';
 
 function App() {
   return (
